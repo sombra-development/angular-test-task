@@ -1,0 +1,26 @@
+{
+  "name": "wiser-test-project",
+  "version": "1.0.0",
+  "description": "Wiser Investment MusicLib Project",
+  "main": "grunt",
+  "scripts": {},
+  "author": "Put Your Name Here",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.16.6",
+    "validator": "^6.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-karma": "^2.0.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2"
+  }
+}
